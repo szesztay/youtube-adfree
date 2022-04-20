@@ -1,12 +1,13 @@
-# youtube-webos
+# youtube-adfree
 
 YouTube alkalmazás kibővített funkciókkal
 
-![Configuration Screen](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/1_sm.jpg?raw=true)
-![Segment Skipped](https://github.com/webosbrew/youtube-webos/blob/main/screenshots/2_sm.jpg?raw=true)
-
-## Features
+## Funkciók
 
 - Reklámok blokkolása
 - [SponsorBlock](https://sponsor.ajay.app/) integráció
 - [Autostart](#autostart)
+
+
+![Configuration Screen](https://raw.githubusercontent.com/szesztay/youtube-adfree/main/screenshots/1_sm.jpg?raw=true)
+![Segment Skipped](https://raw.githubusercontent.com/szesztay/youtube-adfree/main/screenshots/2_sm.jpg?raw=true)
