@@ -19,4 +19,4 @@ YouTube App with extended functionalities
 
 ## Installation
 
-- Lásd [itt] (https://github.com/webosbrew/youtube-webos#installation)
+- Lásd [itt](https://github.com/webosbrew/youtube-webos#installation)
