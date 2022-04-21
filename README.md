@@ -1,4 +1,4 @@
-# youtube-webos
+# youtube-adfree
 
 Egy nyílt forráskódú YouTube okos tévé applikáció, LG webOS rendszerekre. Az alkalmazás rendelkezik beépített adblockerrel és spionsor blockkal, melyeknek köszönhetően búcsút mondhatsz az idegesítő reklámoknak, és a videókban elhelyezett szponzorált blokkoknak.
 
