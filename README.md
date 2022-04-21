@@ -5,7 +5,7 @@ Egy nyílt forráskódú YouTube okos tévé applikáció, LG webOS rendszerekre
 
 ## Funkciók
 
-- Advertisements blocking
+- Hirdetések blokkolása
 - [SponsorBlock](https://sponsor.ajay.app/) integráció
 - [Autostart](#autostart)
 
