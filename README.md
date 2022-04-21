@@ -2,7 +2,7 @@
 
 Egy nyílt forráskódú YouTube okos tévé applikáció, LG webOS rendszerekre. Az alkalmazás rendelkezik beépített adblockerrel és spionsor blockkal, melyeknek köszönhetően búcsút mondhatsz az idegesítő reklámoknak, és a videókban elhelyezett szponzorált blokkoknak.
 
-- [Eredeti oldal](https://sponsor.ajay.app/)
+- [Eredeti oldal](https://repo.webosbrew.org/apps/youtube.leanback.v4)
 - [github](https://sponsor.ajay.app/)
 
 ## Funkciók
